@@ -1,1 +1,6 @@
-# Student-Alcohol-Consumption
+# Student-Alcohol-Consumption [PL]
+
+Goal --
+
+Technologies used --
+
