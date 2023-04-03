@@ -3,6 +3,8 @@
 //original version of this project is polish
 
 //translation in english is in progress
+
+
 Goal: It is a statistical project based on testing different kinds of hypothesis based on data about student alcohol consumption. Main questions were:
 
 1. Do students of GP and MS schools differ in the number of past academic failures? (using the Student's t-test method for independent samples,
