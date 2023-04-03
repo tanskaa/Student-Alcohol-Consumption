@@ -14,5 +14,5 @@ Goal: It is a statistical project based on testing different kinds of hypothesis
    
    
 
-Technologies used --
+Technologies used: pandas, numpy & pinouin; matplotlib & seaborn for data visualisation.
 
